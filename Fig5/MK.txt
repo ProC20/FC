@@ -1,0 +1,15 @@
+M	K
+B. caccae	K01209
+B. caccae	K10012
+B. cellulosilyticus	K01209
+B. cellulosilyticus	K01442
+Bifidobacterium_adolescentis	K00925
+Bifidobacterium_adolescentis	K01209
+Bifidobacterium_adolescentis	K01442
+Bifidobacterium_longum	K00925
+Bifidobacterium_longum	K01209
+Bifidobacterium_longum	K10012
+Bifidobacterium_longum	K01442
+Enterococcus_D_casseliflavus_L6.16T0_350_bin.61	K01209
+Phocaeicola_dorei	K10012
+Phocaeicola_dorei	K17723

@@ -1,0 +1,213 @@
+	group	value	index																																	
+A1	CTR	10	Fecal output																																	
+A2	CTR	9	Fecal output																																	
+A3	CTR	10	Fecal output																																	
+A4	CTR	9	Fecal output																																	
+A5	CTR	9	Fecal output																																	
+A6	LOP	5	Fecal output																																	
+A7	LOP	6	Fecal output																																	
+A8	LOP	6	Fecal output																																	
+A9	LOP	6	Fecal output																																	
+A10	LOP	7	Fecal output																																	
+A11	B. lon14	9	Fecal output																																	
+A12	B. lon14	10	Fecal output																																	
+A13	B. lon14	9	Fecal output																																	
+A14	B. lon14	10	Fecal output																																	
+A15	B. lon14	9	Fecal output																																	
+A16	B. lon8	10	Fecal output																																	
+A17	B. lon8	10	Fecal output																																	
+A18	B. lon8	9	Fecal output																																	
+A19	B. lon8	9	Fecal output																																	
+A20	B. lon8	9	Fecal output																																	
+A21	B. lon8	9	Fecal output																																	
+A22	B. lon56	8	Fecal output																																	
+A23	B. lon56	9	Fecal output																																	
+A24	B. lon56	10	Fecal output																																	
+A25	B. lon56	8	Fecal output																																	
+A26	B. lon56	8	Fecal output																																	
+A27	B. lon1	9	Fecal output																																	
+A28	B. lon1	10	Fecal output																																	
+A29	B. lon1	11	Fecal output																																	
+A30	B. lon1	12	Fecal output																																	
+A31	B. lon1	10	Fecal output																																	
+A31	B. lon1	9	Fecal output																																	
+A32	B. lon28	7	Fecal output																																	
+A33	B. lon28	7	Fecal output																																	
+A34	B. lon28	7	Fecal output																																	
+A35	B. lon28	6	Fecal output																																	
+A36	B. lon28	7	Fecal output																																	
+A37	B. lon58	7	Fecal output																																	
+A38	B. lon58	6	Fecal output																																	
+A39	B. lon58	8	Fecal output																																	
+A40	B. lon58	7	Fecal output																																	
+A41	B. lon58	7	Fecal output																																	
+A42	B. lon6	7	Fecal output																																	
+A43	B. lon6	7	Fecal output																																	
+A44	B. lon6	6	Fecal output																																	
+A45	B. lon6	7	Fecal output																																	
+A46	B. lon6	6	Fecal output																																	
+A47	B. lon6	6	Fecal output																																	
+A48	B. lon30	7	Fecal output																																	
+A49	B. lon30	8	Fecal output																																	
+A50	B. lon30	7	Fecal output																																	
+A51	B. lon30	7	Fecal output																																	
+A52	B. lon30	6	Fecal output																																	
+A53	CTR	185	Whole gut transit time																																	
+A54	CTR	171	Whole gut transit time																																	
+A55	CTR	161	Whole gut transit time																																	
+A56	CTR	191	Whole gut transit time																																	
+A57	CTR	169	Whole gut transit time																																	
+A58	LOP	269	Whole gut transit time																																	
+A59	LOP	256	Whole gut transit time																																	
+A60	LOP	271	Whole gut transit time																																	
+A61	LOP	281	Whole gut transit time																																	
+A62	LOP	266	Whole gut transit time																																	
+A63	B. lon14	175	Whole gut transit time																																	
+A64	B. lon14	156	Whole gut transit time																																	
+A65	B. lon14	156	Whole gut transit time																																	
+A66	B. lon14	167	Whole gut transit time																																	
+A67	B. lon14	171	Whole gut transit time																																	
+A68	B. lon8	168	Whole gut transit time																																	
+A69	B. lon8	161	Whole gut transit time																																	
+A70	B. lon8	153	Whole gut transit time																																	
+A71	B. lon8	143	Whole gut transit time																																	
+A72	B. lon8	166	Whole gut transit time																																	
+A73	B. lon8	159	Whole gut transit time																																	
+A74	B. lon56	169	Whole gut transit time																																	
+A75	B. lon56	146	Whole gut transit time																																	
+A76	B. lon56	157	Whole gut transit time																																	
+A77	B. lon56	172	Whole gut transit time																																	
+A78	B. lon56	163	Whole gut transit time																																	
+A79	B. lon1	167	Whole gut transit time																																	
+A80	B. lon1	174	Whole gut transit time																																	
+A81	B. lon1	183	Whole gut transit time																																	
+A81	B. lon1	177	Whole gut transit time																																	
+A82	B. lon1	166	Whole gut transit time																																	
+A83	B. lon1	172	Whole gut transit time																																	
+A84	B. lon28	249	Whole gut transit time																																	
+A85	B. lon28	251	Whole gut transit time																																	
+A86	B. lon28	272	Whole gut transit time																																	
+A87	B. lon28	263	Whole gut transit time																																	
+A88	B. lon28	253	Whole gut transit time																																	
+A89	B. lon58	256	Whole gut transit time																																	
+A90	B. lon58	259	Whole gut transit time																																	
+A91	B. lon58	242	Whole gut transit time																																	
+A92	B. lon58	257	Whole gut transit time																																	
+A93	B. lon58	264	Whole gut transit time																																	
+A94	B. lon6	242	Whole gut transit time																																	
+A95	B. lon6	281	Whole gut transit time																																	
+A96	B. lon6	266	Whole gut transit time																																	
+A97	B. lon6	257	Whole gut transit time																																	
+A98	B. lon6	256	Whole gut transit time																																	
+A99	B. lon6	271	Whole gut transit time																																	
+A100	B. lon30	258	Whole gut transit time																																	
+A101	B. lon30	251	Whole gut transit time																																	
+A102	B. lon30	255	Whole gut transit time																																	
+A103	B. lon30	267	Whole gut transit time																																	
+A104	B. lon30	266	Whole gut transit time																																	
+A105	CTR	0.542805	small intestine transit																																	
+A106	CTR	0.565353	small intestine transit																																	
+A107	CTR	0.514051	small intestine transit																																	
+A108	CTR	0.603739	small intestine transit																																	
+A109	CTR	0.579818	small intestine transit																																	
+A110	LOP	0.41495	small intestine transit																																	
+A111	LOP	0.449593	small intestine transit																																	
+A112	LOP	0.393636	small intestine transit																																	
+A113	LOP	0.450203	small intestine transit																																	
+A114	LOP	0.48643	small intestine transit																																	
+A115	B. lon14	0.727362	small intestine transit																																	
+A116	B. lon14	0.745638	small intestine transit																																	
+A117	B. lon14	0.7644818	small intestine transit																																	
+A118	B. lon14	0.744929	small intestine transit																																	
+A119	B. lon14	0.800353	small intestine transit																																	
+A120	B. lon8	0.7934	small intestine transit																																	
+A121	B. lon8	0.8329	small intestine transit																																	
+A122	B. lon8	0.8209	small intestine transit																																	
+A123	B. lon8	0.8828	small intestine transit																																	
+A124	B. lon8	0.7942	small intestine transit																																	
+A125	B. lon8	0.8273	small intestine transit																																	
+A126	B. lon56	0.865739	small intestine transit																																	
+A127	B. lon56	0.7742818	small intestine transit																																	
+A128	B. lon56	0.838481	small intestine transit																																	
+A129	B. lon56	0.824929	small intestine transit																																	
+A130	B. lon56	0.745353	small intestine transit																																	
+A131	B. lon1	0.585362	small intestine transit																																	
+A132	B. lon1	0.625638	small intestine transit																																	
+A133	B. lon1	0.682739	small intestine transit																																	
+A134	B. lon1	0.749818	small intestine transit																																	
+A134	B. lon1	0.689929	small intestine transit																																	
+A135	B. lon1	0.690353	small intestine transit																																	
+A136	B. lon28	0.452051	small intestine transit																																	
+A137	B. lon28	0.500362	small intestine transit																																	
+A138	B. lon28	0.366638	small intestine transit																																	
+A139	B. lon28	0.474091	small intestine transit																																	
+A140	B. lon28	0.487481	small intestine transit																																	
+A141	B. lon58	0.446051	small intestine transit																																	
+A142	B. lon58	0.571362	small intestine transit																																	
+A143	B. lon58	0.419638	small intestine transit																																	
+A144	B. lon58	0.479739	small intestine transit																																	
+A145	B. lon58	0.523481	small intestine transit																																	
+A146	B. lon6	0.4614	small intestine transit																																	
+A147	B. lon6	0.4229	small intestine transit																																	
+A148	B. lon6	0.411	small intestine transit																																	
+A149	B. lon6	0.4762	small intestine transit																																	
+A150	B. lon6	0.4217	small intestine transit																																	
+A151	B. lon6	0.4739	small intestine transit																																	
+A152	B. lon30	0.454362	small intestine transit																																	
+A153	B. lon30	0.409638	small intestine transit																																	
+A154	B. lon30	0.489739	small intestine transit																																	
+A155	B. lon30	0.578818	small intestine transit																																	
+A156	B. lon30	0.529481	small intestine transit																																	
+A157	CTR	0.584537	Pellet water content																																	
+A158	CTR	0.583015	Pellet water content																																	
+A159	CTR	0.518615	Pellet water content																																	
+A160	CTR	0.579143	Pellet water content																																	
+A161	CTR	0.606615	Pellet water content																																	
+A162	LOP	0.37103	Pellet water content																																	
+A163	LOP	0.34948	Pellet water content																																	
+A164	LOP	0.388271	Pellet water content																																	
+A165	LOP	0.375577	Pellet water content																																	
+A166	LOP	0.460274	Pellet water content																																	
+A167	B. lon14	0.479767	Pellet water content																																	
+A168	B. lon14	0.387379	Pellet water content																																	
+A169	B. lon14	0.523127	Pellet water content																																	
+A170	B. lon14	0.520588	Pellet water content																																	
+A171	B. lon14	0.467797	Pellet water content																																	
+A172	B. lon8	0.650980392	Pellet water content																																	
+A173	B. lon8	0.597222222	Pellet water content																																	
+A174	B. lon8	0.61068702	Pellet water content																																	
+A175	B. lon8	0.617857143	Pellet water content																																	
+A176	B. lon8	0.644680851	Pellet water content																																	
+A177	B. lon8	0.651533742	Pellet water content																																	
+A178	B. lon56	0.54574	Pellet water content																																	
+A179	B. lon56	0.50479	Pellet water content																																	
+A180	B. lon56	0.495808	Pellet water content																																	
+A181	B. lon56	0.495506	Pellet water content																																	
+A182	B. lon56	0.466434	Pellet water content																																	
+A183	B. lon1	0.52118	Pellet water content																																	
+A183	B. lon1	0.580212	Pellet water content																																	
+A184	B. lon1	0.64307	Pellet water content																																	
+A185	B. lon1	0.65221	Pellet water content																																	
+A186	B. lon1	0.6563	Pellet water content																																	
+A187	B. lon1	0.57434	Pellet water content																																	
+A188	B. lon28	0.425806	Pellet water content																																	
+A189	B. lon28	0.479767	Pellet water content																																	
+A190	B. lon28	0.387379	Pellet water content																																	
+A191	B. lon28	0.467797	Pellet water content																																	
+A192	B. lon28	0.469733	Pellet water content																																	
+A193	B. lon58	0.435211	Pellet water content																																	
+A194	B. lon58	0.440964	Pellet water content																																	
+A195	B. lon58	0.44604	Pellet water content																																	
+A196	B. lon58	0.477419	Pellet water content																																	
+A197	B. lon58	0.418919	Pellet water content																																	
+A198	B. lon6	0.427777778	Pellet water content																																	
+A199	B. lon6	0.418320611	Pellet water content																																	
+A200	B. lon6	0.380722892	Pellet water content																																	
+A201	B. lon6	0.454723127	Pellet water content																																	
+A202	B. lon6	0.416621253	Pellet water content																																	
+A203	B. lon6	0.388024	Pellet water content																																	 
+A204	B. lon30	0.352514	Pellet water content																																	
+A205	B. lon30	0.39878	Pellet water content																																	
+A206	B. lon30	0.387571	Pellet water content																																	
+A207	B. lon30	0.424877	Pellet water content																																	
+A208	B. lon30	0.459574	Pellet water content																																	

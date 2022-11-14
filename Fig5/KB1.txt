@@ -1,0 +1,7 @@
+K	B
+K00925	acetate
+K01209	acetate
+K17723	Uracil
+K01442	Chenodeoxycholic.Acid
+K10012	acetate
+K01209	butyrate

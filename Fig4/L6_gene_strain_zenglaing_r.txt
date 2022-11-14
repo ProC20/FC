@@ -1,0 +1,10 @@
+	value
+Bifidobacterium_longum	0.62
+Bacteroides_cellulosilyticus	0.098
+Enterococcus_D_casseliflavus	-0.11
+Collinsella_sp002232035	0.27
+Akkermansia_muciniphila	-0.48
+Odoribacter_massiliensis	-0.17
+Adlercreutzia_equolifaciens	-0.012
+Collinsella_sp003439125	0.19
+Butyricimonas_faecihominis	0.022

@@ -1,0 +1,51 @@
+	group	value	index
+A1	CTR	10	Fecal output
+A2	CTR	9	Fecal output
+A3	CTR	10	Fecal output
+A4	CTR	9	Fecal output
+A5	CTR	9	Fecal output
+A6	LOP	5	Fecal output
+A7	LOP	6	Fecal output
+A8	LOP	6	Fecal output
+A9	LOP	6	Fecal output
+A10	LOP	7	Fecal output
+A16	s32	9	Fecal output
+A17	s32	9	Fecal output
+A18	s32	8	Fecal output
+A19	s32	9	Fecal output
+A20	s32	9	Fecal output
+A26	s63	9	Fecal output
+A27	s63	9	Fecal output
+A28	s63	10	Fecal output
+A29	s63	11	Fecal output
+A30	s63	9	Fecal output
+A41	s64	6	Fecal output
+A42	s64	8	Fecal output
+A43	s64	7	Fecal output
+A44	s64	7	Fecal output
+A45	s64	6	Fecal output
+A51	CTR	185	Whole gut transit time
+A52	CTR	171	Whole gut transit time
+A53	CTR	161	Whole gut transit time
+A54	CTR	191	Whole gut transit time
+A55	CTR	169	Whole gut transit time
+A56	LOP	269	Whole gut transit time
+A57	LOP	256	Whole gut transit time
+A58	LOP	271	Whole gut transit time
+A59	LOP	281	Whole gut transit time
+A60	LOP	266	Whole gut transit time
+A66	s32	168	Whole gut transit time
+A67	s32	161	Whole gut transit time
+A68	s32	153	Whole gut transit time
+A69	s32	143	Whole gut transit time
+A70	s32	166	Whole gut transit time
+A76	s63	170	Whole gut transit time
+A77	s63	162	Whole gut transit time
+A78	s63	156	Whole gut transit time
+A79	s63	172	Whole gut transit time
+A80	s63	177	Whole gut transit time
+A91	s64	264	Whole gut transit time
+A92	s64	276	Whole gut transit time
+A93	s64	255	Whole gut transit time
+A94	s64	262	Whole gut transit time
+A95	s64	270	Whole gut transit time

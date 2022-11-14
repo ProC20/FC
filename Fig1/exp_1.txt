@@ -1,0 +1,193 @@
+	value	index	group	
+A1	10	Fecal_output	CTRL	
+A2	10	Fecal_output	CTRL	
+A3	9	Fecal_output	CTRL	
+A4	10	Fecal_output	CTRL	
+A5	10	Fecal_output	CTRL	
+A6	9	Fecal_output	CTRL	
+A7	5	Fecal_output	LOP	
+A8	6	Fecal_output	LOP	
+A9	6	Fecal_output	LOP	
+A10	5	Fecal_output	LOP	
+A11	6	Fecal_output	LOP	
+A12	7	Fecal_output	LOP	
+A13	10	Fecal_output	PHE	
+A14	10	Fecal_output	PHE	
+A15	10	Fecal_output	PHE	
+A16	10	Fecal_output	PHE	
+A17	10	Fecal_output	PHE	
+A18	11	Fecal_output	PHE	
+A19	10	Fecal_output	B. lon 4	
+A20	11	Fecal_output	B. lon 4	
+A21	10	Fecal_output	B. lon 4	
+A22	10	Fecal_output	B. lon 4	
+A23	10	Fecal_output	B. lon 4	
+A24	11	Fecal_output	B. lon 4	
+A25	11	Fecal_output	B. lon 70	
+A26	10	Fecal_output	B. lon 70	
+A27	11	Fecal_output	B. lon 70	
+A28	12	Fecal_output	B. lon 70	
+A29	11	Fecal_output	B. lon 70	
+A30	10	Fecal_output	B. lon 70	
+A43	10	Fecal_output	B. lon 8	
+A44	10	Fecal_output	B. lon 8	
+A45	9	Fecal_output	B. lon 8	
+A46	9	Fecal_output	B. lon 8	
+A47	9	Fecal_output	B. lon 8	
+A48	9	Fecal_output	B. lon 8	
+A31	7	Fecal_output	B. lon 39	
+A32	6	Fecal_output	B. lon 39	
+A33	6	Fecal_output	B. lon 39	
+A34	7	Fecal_output	B. lon 39	
+A35	6	Fecal_output	B. lon 39	
+A36	6	Fecal_output	B. lon 39	
+A37	7	Fecal_output	B. lon 6	
+A38	7	Fecal_output	B. lon 6	
+A39	6	Fecal_output	B. lon 6	
+A40	7	Fecal_output	B. lon 6	
+A41	6	Fecal_output	B. lon 6	
+A42	6	Fecal_output	B. lon 6	
+A49	191	Whole_gut_transit_time	CTRL	
+A50	169	Whole_gut_transit_time	CTRL	
+A51	161	Whole_gut_transit_time	CTRL	
+A52	179	Whole_gut_transit_time	CTRL	
+A53	171	Whole_gut_transit_time	CTRL	
+A54	167	Whole_gut_transit_time	CTRL	
+A55	269	Whole_gut_transit_time	LOP	
+A56	256	Whole_gut_transit_time	LOP	
+A57	271	Whole_gut_transit_time	LOP	
+A58	266	Whole_gut_transit_time	LOP	
+A59	284	Whole_gut_transit_time	LOP	
+A60	269	Whole_gut_transit_time	LOP	
+A61	167	Whole_gut_transit_time	PHE	
+A62	171	Whole_gut_transit_time	PHE	
+A63	175	Whole_gut_transit_time	PHE	
+A64	180	Whole_gut_transit_time	PHE	
+A65	156	Whole_gut_transit_time	PHE	
+A66	168	Whole_gut_transit_time	PHE	
+A67	156	Whole_gut_transit_time	B. lon 4	
+A68	167	Whole_gut_transit_time	B. lon 4	
+A69	171	Whole_gut_transit_time	B. lon 4	
+A70	169	Whole_gut_transit_time	B. lon 4	
+A71	178	Whole_gut_transit_time	B. lon 4	
+A72	179	Whole_gut_transit_time	B. lon 4	
+A73	179	Whole_gut_transit_time	B. lon 70	
+A74	171	Whole_gut_transit_time	B. lon 70	
+A75	178	Whole_gut_transit_time	B. lon 70	
+A76	172	Whole_gut_transit_time	B. lon 70	
+A77	163	Whole_gut_transit_time	B. lon 70	
+A78	181	Whole_gut_transit_time	B. lon 70	
+A91	168	Whole_gut_transit_time	B. lon 8	
+A92	161	Whole_gut_transit_time	B. lon 8	
+A93	153	Whole_gut_transit_time	B. lon 8	
+A94	143	Whole_gut_transit_time	B. lon 8	
+A95	166	Whole_gut_transit_time	B. lon 8	
+A96	159	Whole_gut_transit_time	B. lon 8	
+A79	251	Whole_gut_transit_time	B. lon 39	
+A80	267	Whole_gut_transit_time	B. lon 39	
+A81	266	Whole_gut_transit_time	B. lon 39	
+A82	271	Whole_gut_transit_time	B. lon 39	
+A83	281	Whole_gut_transit_time	B. lon 39	
+A84	266	Whole_gut_transit_time	B. lon 39	
+A85	242	Whole_gut_transit_time	B. lon 6	
+A86	281	Whole_gut_transit_time	B. lon 6	
+A87	266	Whole_gut_transit_time	B. lon 6	1
+A88	257	Whole_gut_transit_time	B. lon 6	
+A89	256	Whole_gut_transit_time	B. lon 6	
+A90	271	Whole_gut_transit_time	B. lon 6	
+A97	48.78	Small_intestine_transit	CTRL	
+A98	51.67	Small_intestine_transit	CTRL	
+A99	40.91	Small_intestine_transit	CTRL	
+A100	48.94	Small_intestine_transit	CTRL	
+A101	51.06	Small_intestine_transit	CTRL	
+A102	52.17	Small_intestine_transit	CTRL	
+A103	36.57	Small_intestine_transit	LOP	
+A104	42.14	Small_intestine_transit	LOP	
+A105	38.98	Small_intestine_transit	LOP	
+A106	47.29	Small_intestine_transit	LOP	
+A107	43.17	Small_intestine_transit	LOP	
+A108	40.74	Small_intestine_transit	LOP	
+A109	68.54	Small_intestine_transit	PHE	
+A110	77.65	Small_intestine_transit	PHE	
+A111	73.41	Small_intestine_transit	PHE	
+A112	66.82	Small_intestine_transit	PHE	
+A113	77.56	Small_intestine_transit	PHE	
+A114	76.82	Small_intestine_transit	PHE	
+A115	79.44	Small_intestine_transit	B. lon 4	
+A116	68.18	Small_intestine_transit	B. lon 4	
+A117	74.73	Small_intestine_transit	B. lon 4	
+A118	78.84	Small_intestine_transit	B. lon 4	
+A119	72.41	Small_intestine_transit	B. lon 4	
+A120	81.63	Small_intestine_transit	B. lon 4	
+A121	83.64	Small_intestine_transit	B. lon 70	
+A122	77.14	Small_intestine_transit	B. lon 70	
+A123	82.83	Small_intestine_transit	B. lon 70	
+A124	86.43	Small_intestine_transit	B. lon 70	
+A125	81.16	Small_intestine_transit	B. lon 70	
+A126	81.16	Small_intestine_transit	B. lon 70	
+A139	79.34	Small_intestine_transit	B. lon 8	
+A140	83.29	Small_intestine_transit	B. lon 8	
+A141	82.09	Small_intestine_transit	B. lon 8	
+A142	88.28	Small_intestine_transit	B. lon 8	
+A143	79.42	Small_intestine_transit	B. lon 8	
+A144	82.73	Small_intestine_transit	B. lon 8	
+A127	39.77	Small_intestine_transit	B. lon 39	
+A128	47.05	Small_intestine_transit	B. lon 39	
+A129	45.91	Small_intestine_transit	B. lon 39	
+A130	34.65	Small_intestine_transit	B. lon 39	
+A131	46.36	Small_intestine_transit	B. lon 39	
+A132	44.71	Small_intestine_transit	B. lon 39	
+A133	46.14	Small_intestine_transit	B. lon 6	
+A134	42.29	Small_intestine_transit	B. lon 6	
+A135	41.1	Small_intestine_transit	B. lon 6	
+A136	47.62	Small_intestine_transit	B. lon 6	
+A137	42.17	Small_intestine_transit	B. lon 6	
+A138	47.39	Small_intestine_transit	B. lon 6	
+A145	46.6367713	Pellet_water_content	CTRL	
+A146	49.8837209	Pellet_water_content	CTRL	
+A147	53.3070866	Pellet_water_content	CTRL	
+A148	53.2915361	Pellet_water_content	CTRL	
+A149	48.4848485	Pellet_water_content	CTRL	
+A150	53.442623	Pellet_water_content	CTRL	
+A151	42.4790419	Pellet_water_content	LOP	
+A152	36.2698413	Pellet_water_content	LOP	
+A153	37.0588235	Pellet_water_content	LOP	
+A154	33.808383	Pellet_water_content	LOP	
+A155	39.5505618	Pellet_water_content	LOP	
+A156	36.6433566	Pellet_water_content	LOP	
+A157	70.876847	Pellet_water_content	PHE	
+A158	69.574468	Pellet_water_content	PHE	
+A159	62.6890756	Pellet_water_content	PHE	
+A160	72.5139665	Pellet_water_content	PHE	
+A161	69.2417062	Pellet_water_content	PHE	
+A162	67.303371	Pellet_water_content	PHE	
+A163	60.2392344	Pellet_water_content	B. lon 4	
+A164	64	Pellet_water_content	B. lon 4	
+A165	59.4117647	Pellet_water_content	B. lon 4	
+A166	63.1914894	Pellet_water_content	B. lon 4	
+A167	64.4565217	Pellet_water_content	B. lon 4	
+A168	59.4835681	Pellet_water_content	B. lon 4	
+A169	59.5555556	Pellet_water_content	B. lon 70	
+A170	62.5345622	Pellet_water_content	B. lon 70	
+A171	65.9388646	Pellet_water_content	B. lon 70	
+A172	65.349544	Pellet_water_content	B. lon 70	
+A173	65.9878419	Pellet_water_content	B. lon 70	
+A174	69.852941	Pellet_water_content	B. lon 70	
+A187	65.0980392	Pellet_water_content	B. lon 8	
+A188	59.7222222	Pellet_water_content	B. lon 8	
+A189	61.068702	Pellet_water_content	B. lon 8	
+A190	61.7857143	Pellet_water_content	B. lon 8	
+A191	64.4680851	Pellet_water_content	B. lon 8	
+A192	65.1533742	Pellet_water_content	B. lon 8	
+A175	45.0505051	Pellet_water_content	B. lon 39	
+A176	40.8928571	Pellet_water_content	B. lon 39	
+A177	44.3624161	Pellet_water_content	B. lon 39	
+A178	38.8372093	Pellet_water_content	B. lon 39	
+A179	36.7010309	Pellet_water_content	B. lon 39	
+A180	39.2462312	Pellet_water_content	B. lon 39	
+A181	42.7777778	Pellet_water_content	B. lon 6	
+A182	41.8320611	Pellet_water_content	B. lon 6	
+A183	38.0722892	Pellet_water_content	B. lon 6	
+A184	45.4723127	Pellet_water_content	B. lon 6	
+A185	41.6621253	Pellet_water_content	B. lon 6	
+A186	38.8024	Pellet_water_content	B. lon 6	

@@ -1,0 +1,13 @@
+names	group
+A1	L
+A2	L
+A3	L
+A4	L
+A5	L
+A6	L
+A7	H
+A8	H
+A9	H
+A10	H
+A11	H
+A12	H

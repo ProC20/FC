@@ -1,0 +1,9 @@
+B	I
+acetate	CCCS
+acetate	HMDAS
+acetate	Frequency
+Chenodeoxycholic.Acid	CCCS
+Chenodeoxycholic.Acid	Frequency
+Uracil	Frequency
+Uracil	CCCS
+butyrate	Frequency
